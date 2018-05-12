@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7550
     wikipedia: http://de.wikipedia.org/wiki/Emil_Lucka
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17699#The-Evolution-of-Love
 gutenberg_bookshelf: Love
 gutenberg_issued: '2006-02-07'
 gutenberg_type: Text
